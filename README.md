@@ -1,2 +1,2 @@
 # isaac-test-my-flask
-only fro testing Flask programs in dockers
+only for testing Flask programs in dockers
